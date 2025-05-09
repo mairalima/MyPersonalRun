@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    import androidx.compose.ui.graphics.Color
+    val DarkGreen = Color(0xFF1B3A2B) // Fundo principal
+    val LightGreen = Color(0xFFA3C4A1) // Destaques como headers ou botões
+    val TextWhite = Color(0xFFFFFFFF) // Cor do texto
+
+</resources>

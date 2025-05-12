@@ -27,7 +27,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="personalrun" android:host="cd55-2804-30c-d2e-a200-aca9-472e-8767-a52d.ngrok-free.app" android:pathPrefix="/auth" />
+                <data android:scheme="personalrun" android:host="1f65-2804-30c-2813-b500-74d8-59c5-cd9-c01.ngrok-free.app" android:pathPrefix="/auth" />
 
             </intent-filter>
         </activity>

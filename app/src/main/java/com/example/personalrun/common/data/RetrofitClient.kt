@@ -1,5 +1,6 @@
-package com.example.personalrun
+package com.example.personalrun.common.data
 
+import com.example.personalrun.BuildConfig
 import okhttp3.OkHttpClient
 import okhttp3.Request
 import retrofit2.Retrofit
